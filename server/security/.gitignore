@@ -1,0 +1,8 @@
+# Security files - DO NOT COMMIT
+users.enc
+*.key
+*.pem
+*.cert
+*.p12
+backup_*
+*.bak

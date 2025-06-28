@@ -1,0 +1,17 @@
+{
+  "numbers": [
+    {
+      "id": 1,
+      "number": "+628123456789",
+      "note": "Test number for bot database",
+      "createdAt": "2025-06-28T02:13:04.328Z"
+    },
+    {
+      "id": 2,
+      "number": "6281249578370",
+      "note": null,
+      "createdAt": "2025-06-28T02:14:23.125Z"
+    }
+  ],
+  "nextId": 3
+}
